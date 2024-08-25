@@ -1,0 +1,31 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Style the submit button */
+#submitButton {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#submitButton:hover {
+    background-color: darkblue;
+}
+
+/* Style the select element */
+#filter {
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+/* Style the result div */
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+}
